@@ -1,10 +1,14 @@
 import React from 'react'
+import CSignUP from '../Component/Signup/CSignup'
+
 
 function SignUp() {
   return (
-    <div>
-      Signup
-    </div>
+   <>
+   
+   <CSignUP/>
+
+   </>
   )
 }
 
